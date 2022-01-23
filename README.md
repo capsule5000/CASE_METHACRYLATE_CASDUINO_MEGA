@@ -8,4 +8,6 @@ This methacrylate case is specially designed for the CASDUINO MEGA PCB. It has a
 
 ![Alt text](https://github.com/capsule5000/CASE_METHACRYLATE_CASDUINO_MEGA/blob/main/Images/front2_casduino_mega.png)
 
+![Alt text](https://github.com/capsule5000/CASE_METHACRYLATE_CASDUINO_MEGA/blob/main/Images/down_casduino_mega.png)
+
 ![Alt text](https://github.com/capsule5000/CASE_METHACRYLATE_CASDUINO_MEGA/blob/main/Images/front1_casduino_mega.png)
